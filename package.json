@@ -1,0 +1,11 @@
+{
+  "name": "preact-x-compat",
+  "version": "0.1.0",
+  "description": "Convenience module for easy React to Preact replacement",
+  "main": "index.js",
+  "author": "David Bailey <davidbailey00@outlook.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "preact": "10.x"
+  }
+}
